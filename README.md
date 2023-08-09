@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chenf1
-- 👀 I’m interested in machine learning algorithms/statistical models applied into business real world problems
-- 🌱 I’m currently learning time series models applications in housing market and mortgage industry
+- 👀 I’m interested in machine learning algorithms/statistical models applied into business real world problems.
+- 🌱 I’m currently focus on Data Science in Pharmaceuticals industry.
 - 💞️ I’m looking to collaborate on coding and algorithms development in Python or R.
 
 <!---
